@@ -103,6 +103,10 @@ angular-local-storage@~0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/angular-local-storage/-/angular-local-storage-0.7.1.tgz#fbd2730763c29fa9af5725e0186c780621e8cdd2"
 
+angular-recaptcha@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/angular-recaptcha/-/angular-recaptcha-4.2.0.tgz#3533802ae0d43ac9fedd5f6104e9dbf3c10588a7"
+
 angular-ui-router@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/angular-ui-router/-/angular-ui-router-1.0.3.tgz#bf2494caae95c37cf01af3761d89747cfed2db45"
@@ -3104,8 +3108,8 @@ hooker@^0.2.3, hooker@~0.2.3:
   resolved "https://registry.yarnpkg.com/hooker/-/hooker-0.2.3.tgz#b834f723cc4a242aa65963459df6d984c5d3d959"
 
 hosted-git-info@^2.1.4:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.4.2.tgz#0076b9f46a270506ddbaaea56496897460612a67"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 html-comment-regex@^1.1.0:
   version "1.1.1"
@@ -4190,6 +4194,10 @@ ncname@1.0.x:
 negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
+
+ngmap@1.18.4:
+  version "1.18.4"
+  resolved "https://registry.yarnpkg.com/ngmap/-/ngmap-1.18.4.tgz#8f36d8e840da6829ce5d40e5d747b70c4a3ac833"
 
 no-case@^2.2.0:
   version "2.3.1"
